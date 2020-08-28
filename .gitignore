@@ -1,16 +1,27 @@
 ## Core latex/pdflatex auxiliary files:
 *.aux
-*.lof
+*.glo
+*.idx
 *.log
-*.lot
-*.fls
-*.out
 *.toc
-*.fmt
-*.fot
-*.cb
-*.cb2
-.*.lb
+*.ist
+*.acn
+*.acr
+*.alg
+*.bbl
+*.blg
+*.dvi
+*.glg
+*.gls
+*.ilg
+*.ind
+*.lof
+*.lot
+*.maf
+*.mtc
+*.mtc1
+*.out
+*.synctex.gz
 
 ## Intermediate documents:
 *.dvi
