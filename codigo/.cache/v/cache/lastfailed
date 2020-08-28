@@ -1,0 +1,5 @@
+{
+  "test_unitario_funcoes.py::test_ValidateIDExists": true,
+  "testes_unitarios.py": true,
+  "testes_unitarios.py::test_isInteger": true
+}

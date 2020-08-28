@@ -1,0 +1,138 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {portuguese}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{i}{section*.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{i}{section*.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{i}{section*.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{iv}{chapter.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}Motiva\IeC {\c c}\IeC {\~a}o}{iv}{section.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{iv}{section*.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{iv}{section*.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}Conte\IeC {\'u}do dispon\IeC {\'\i }bilizado}{iv}{section.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{iv}{section*.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{v}{section*.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}Instala\IeC {\c c}\IeC {\~o}es necess\IeC {\'a}rias para o funcionamento correto do c\IeC {\'o}digo}{v}{section.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{v}{section*.12}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Algoritmo}{vi}{chapter.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Estrutura\IeC {\c c}\IeC {\~a}o do Algoritmo}{vi}{section.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{vi}{section*.13}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Funcionamento do Algoritmo}{vi}{section.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{vi}{section*.14}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{vi}{section*.15}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{vii}{section*.16}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{vii}{section*.17}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{vii}{section*.18}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{vii}{section*.19}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{vii}{section*.20}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Implementa\IeC {\c c}\IeC {\~a}o do Algoritmo - client.py}{viii}{chapter.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{viii}{section*.21}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}error\textunderscore list }{viii}{section.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{viii}{section*.22}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Fun\IeC {\c c}\IeC {\~a}o validateArgs }{ix}{section.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{ix}{section*.24}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Fun\IeC {\c c}\IeC {\~a}o isInteger }{ix}{section.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{ix}{section*.26}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}Fun\IeC {\c c}\IeC {\~a}o validateIDExists }{x}{section.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{x}{section*.28}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.5}Fun\IeC {\c c}\IeC {\~a}o validateCountryExists }{x}{section.3.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{x}{section*.30}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.6}Fun\IeC {\c c}\IeC {\~a}o printError }{xi}{section.3.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xi}{section*.32}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xi}{section*.34}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.7}Fun\IeC {\c c}\IeC {\~a}o getHostById }{xi}{section.3.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xi}{section*.35}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.8}Fun\IeC {\c c}\IeC {\~a}o getHostByCountry }{xii}{section.3.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xii}{section*.37}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.9}Fun\IeC {\c c}\IeC {\~a}o sendHi }{xii}{section.3.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xii}{section*.39}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.10}Fun\IeC {\c c}\IeC {\~a}o sendPing }{xiii}{section.3.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xiii}{section*.41}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xiii}{section*.42}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xiii}{section*.43}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.11}Fun\IeC {\c c}\IeC {\~a}o sendDownload }{xv}{section.3.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xv}{section*.46}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xv}{section*.47}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xv}{section*.48}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.12}Fun\IeC {\c c}\IeC {\~a}o getSintese }{xvi}{section.3.12}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xvi}{section*.51}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.13}Fun\IeC {\c c}\IeC {\~a}o getFileSintese }{xvii}{section.3.13}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xvii}{section*.53}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.14}Fun\IeC {\c c}\IeC {\~a}o main }{xviii}{section.3.14}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xviii}{section*.55}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xviii}{section*.56}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Implementa\IeC {\c c}\IeC {\~a}o de testes unit\IeC {\'a}rios - test\textunderscore unitario\textunderscore funcoes.py}{xix}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xix}{section*.58}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xix}{section*.59}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Conclus\IeC {\~a}o:}{xx}{chapter.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xx}{section*.61}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xx}{section*.62}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}Contribui\IeC {\c c}\IeC {\~a}o dos autores}{xx}{section.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xx}{section*.63}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{xx}{section*.64}
