@@ -7,7 +7,7 @@ Using Rivest–Shamir–Adleman (RSA) cryptosystem, it outputs a .sig file which
 The usage of Git to manage the project was also required.
 
 ### Detailed description/usage
-Read the project report -> [**TrabalhoAP2.pdf**](relatorio).
+Read the project report -> [**TrabalhoAP2.pdf**](relatorio/TrabalhoAP2.pdf).
 
 ### Programming Languages
 `Python` `TeX`
