@@ -9,5 +9,5 @@ Git was used to manage the project.
 ### Detailed description/usage
 Read the project report -> [**TrabalhoAP2.pdf**](relatorio/TrabalhoAP2.pdf).
 
-### Programming Languages
+### Programming/Scripting/Markup Languages
 `Python` `TeX`
