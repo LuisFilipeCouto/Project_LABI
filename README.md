@@ -7,6 +7,3 @@ The client's constituent functions have been verified through unit testing. Thes
 
 ### Detailed description/usage
 Read the project report -> [**TrabalhoAP2.pdf**](relatorio/TrabalhoAP2.pdf)
-
-### Programming/Scripting/Markup Languages
-`Python` `TeX`
